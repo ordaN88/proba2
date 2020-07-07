@@ -3,3 +3,4 @@ kako ste
 dobri ste
 odlicni sme
 proba uste edna
+proba preku git bash
